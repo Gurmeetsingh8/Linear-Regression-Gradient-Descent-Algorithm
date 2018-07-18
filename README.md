@@ -6,7 +6,7 @@ This project applies basic machine learning concepts on data collected for acidi
 
 This project uses the following software and Python libraries:
 
-•	Python 2.7
+•	Python 3
 •	NumPy
 •	pandas
 •	matplotlib
